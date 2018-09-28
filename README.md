@@ -5,8 +5,8 @@ Here is a web scraper that collects ACM publications and save them to a CSV file
 
 # Usage
 - Install python modules: bs4 and selenium (these can be installed by pip)
-   pip install bs4
-   pip install selenium
+..*pip install bs4
+..*pip install selenium
 
 - Download 'chromedriver' and keep the .exe file somewhere.
 
